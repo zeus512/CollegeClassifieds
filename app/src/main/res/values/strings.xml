@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Classifieds</string>
+    <string name="card_number">Card Number</string>
+    <string name="mm_yy">MM/yy</string>
+    <string name="card_holders_name">Name</string>
+    <string name="cvv">CVV</string>
+    <string name="proceed">Proceed with Card</string>
+    <string name="example_name">Vedhavyas</string>
+    <string name="example_email">vedhavyas@instamojo.com</string>
+    <string name="example_phone">9663556657</string>
+    <string name="example_amount">10.00</string>
+    <string name="test_description">Test description</string>
+    <string name="pay">Pay</string>
+    <string name="update_token">Update token</string>
+    <string name="register_url">https://errorlabs.in/classified/register.php</string>
+    <string name="login_url">https://errorlabs.in/classified/login.php</string>
+    <string name="items_url">https://errorlabs.in/classified/items.php</string>
+    <string name="updateprofileurl">https://errorlabs.in/classified/updateprofile.php</string>
+    <string name="itemupload">https://errorlabs.in/classified/itemupload.php</string>
+    <string name="itemidurl">https://errorlabs.in/classified/itemid.php</string>
+        <string name="APPKEY">SW5mb3F1ZXN0MjAxN0FwcEtleQ==</string>
+
+</resources>

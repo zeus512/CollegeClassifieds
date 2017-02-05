@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <android.support.design.widget.AppBarLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        >
+        <android.support.v7.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:id="@+id/toolbar"
+            android:background="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light" >
+
+        </android.support.v7.widget.Toolbar>
+
+
+
+
+    </android.support.design.widget.AppBarLayout>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card_view"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            card_view:cardCornerRadius="4dp">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Redeem your coupon code"
+                android:layout_centerHorizontal="true"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:id="@+id/textView8"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Enter coupon code provided by Lybrate on your"
+                android:layout_below="@id/textView8"
+                android:layout_centerHorizontal="true"
+                android:paddingLeft="2dp"
+                android:paddingRight="2dp"
+                android:paddingTop="30dp"
+                android:textSize="15sp"
+                android:id="@+id/textView9"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="doctors here. Code will automatically be"
+                android:layout_below="@id/textView9"
+                android:layout_centerHorizontal="true"
+                android:paddingTop="5dp"
+                android:textSize="15sp"
+                android:id="@+id/textView10"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="applied at the checkout."
+                android:layout_below="@id/textView10"
+                android:layout_centerHorizontal="true"
+                android:paddingTop="5dp"
+                android:textSize="15sp"
+                android:id="@+id/textView11"
+                />
+            <EditText
+                android:layout_width="341dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_centerHorizontal="true"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView11"
+                android:layout_marginTop="20dp"
+                android:hint="Enter Coupon Code"
+                />
+    <Button
+        android:elevation="5dp"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/textView11"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="25dp"
+        android:layout_centerHorizontal="true"
+        android:text="Apply Code"
+        android:textAllCaps="false"
+        android:textColor="#000"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:background="@drawable/abcd"
+        />
+</RelativeLayout>
+        </android.support.v7.widget.CardView>
+
+
+</LinearLayout>

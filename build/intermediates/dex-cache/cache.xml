@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_2500cfedf6d10eaf901f47ee142c3a15108dd975/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_d53b7d6d76bbcf9705e09f0c004a03b62b558194/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_b4b958ffa7efba373e0adbd3c1b20fad7f92eeec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.instamojo/android-sdk/1.2.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d96ef5a0c1e7576653a3c7db9e8e1b38ccbb7ca8">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.instamojo-android-sdk-1.2.5_438eb1165390ddc1bf81674d49755aa683f36a1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_c24c7c9327f2e94cb3118e1fc1ff338f4d8e884c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/in.juspay/godel/0.6.11.0823/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19b66e39d657db6b4a14ce175db0fd7172cd1be9">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/in.juspay-godel-0.6.11.0823_3b1398d8c7c8f0b952dcc497c9c710a7eae81a2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_551c53f169b2961a95e4acde869b43970e4a566f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1005c1e67329aa4a4e2b8d129841910c4af9ac10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_966625304e7208badec13abab7a99ab1be33bd6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.amitshekhar.android/android-networking/0.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2181055be8a630f727d41d4dc15adfad283474bb">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.amitshekhar.android-android-networking-0.3.0_fca8d2fa7067d6bd643016c8f69de6455ca16d43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_64ab09114b3d008b244e3324ca333854aa047755/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_143b27a6915444b0f23f79199c3c7c1f7448ecad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_10b491eb833777d0651d761c8584971b7c002800/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_66b4f95236646da2b3e611e7814a5e0106138c50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f4cfed88d9c32e9b616955bdc54046b3c32793c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.1.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.rengwuxian.materialedittext-library-2.1.4_56e2bbfadb0b3d7e68f81cf0d3402cb960487b9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_04b0e29ac45d66e721a729c3b06b73f6b724cd27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_ac342f17260710fcdf4b2d129687098a64b8d47c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/opt/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_bff4fd387d655c15b633e8a62f7bc718653754a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_c246be005a3d4eaf1ef0c541329bb90f5b52fc9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2901fd0b06dd1639dae8b0a9f72c7d8a851b4801/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="572a9d2adf94f4501c4f648edab81a6832fcb85a">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0fcbe2fbde81322a3ad455e75036e77712cacf49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_a720c0cd71da91b87d1e361ae10a59f2b6967b8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_62ae6994a6b867bac964cde6b36fdcb635f0c2a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19d933f5dcadea1446eba656be43992523f16cbb">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f9ffdeb93f8a8855a725dfd321b759261fcf6310/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_cc5505de95f52fb18134c149eaf5afe747115d2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_1f121dcb167af6e3c8804e71e5e263eff36b133d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_5189df29dc74534d80c1ca45523458caf2b61ee0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_446337283c93b455eb4a577f8ee87fa11daf6a00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/root/StudioProjects/hackathon/College_Classified/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_abbb6cf6565e5391600f42e794cd7651128fa41b/classes.dex" />
+    </item>
+
+</items>

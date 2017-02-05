@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <android.support.design.widget.AppBarLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        >
+        <android.support.v7.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:id="@+id/toolbar"
+            android:background="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light" >
+
+        </android.support.v7.widget.Toolbar>
+
+
+
+
+    </android.support.design.widget.AppBarLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+<View
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:background="@drawable/rectangle"
+    android:layout_margin="30dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Call emergency contact"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp"
+            android:paddingLeft="110dp"
+            android:layout_marginTop="45dp"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/call"
+            android:paddingLeft="45dp"
+            android:paddingTop="34dp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:background="@drawable/rectangle"
+
+            android:layout_marginTop="95dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SMS emergency contact"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp"
+            android:paddingLeft="110dp"
+            android:layout_marginTop="109dp"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/sms"
+            android:paddingLeft="45dp"
+            android:paddingTop="101dp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:background="@drawable/rectangle"
+
+            android:layout_marginTop="160dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:id="@+id/vw"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SMS Family Doctors"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp"
+            android:paddingLeft="110dp"
+            android:layout_marginTop="175dp"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/sms"
+            android:paddingLeft="45dp"
+            android:paddingTop="166dp"/>
+        <View
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_below="@id/vw"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:id="@+id/vw2"
+            android:background="@drawable/circle"/>
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/ambu"
+            android:layout_below="@id/vw"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="45dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Find Ambulance"
+            android:layout_below="@id/vw2"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            android:textStyle="normal"
+            android:textSize="20sp"/>
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_below="@id/vw2"
+                android:background="@drawable/circle"
+                android:layout_marginTop="50dp"
+                android:layout_marginLeft="15dp"/>
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/vw2"
+           android:src="@drawable/beat"
+            android:layout_marginTop="52dp"
+            android:layout_marginLeft="15dp"/>
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/vw2"
+            android:background="@drawable/circle"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="52dp"
+            android:layout_alignParentRight="true"/>
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/vw2"
+            android:src="@drawable/set"
+            android:layout_marginTop="52dp"
+            android:layout_marginRight="15dp"
+            android:layout_alignParentRight="true"/>
+
+
+
+
+    </RelativeLayout>
+</LinearLayout>

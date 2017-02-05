@@ -1,0 +1,51 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.darkbyte.classifieds">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    //required for Juspay to read the OTP from the SMS sent to the device
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".home.MainActivity"
+            ></activity>
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LoginAndRegister.Login_Register_Sel" />
+        <activity
+            android:name=".LoginAndRegister.Login"
+            android:parentActivityName=".LoginAndRegister.Login_Register_Sel" />
+        <activity
+            android:name=".LoginAndRegister.Register"
+            android:parentActivityName=".LoginAndRegister.Login_Register_Sel" />
+        <activity android:name=".ChatService.Chat_Service"></activity>
+        <activity android:name=".product_full_details.Product_Full_Details"></activity>
+        <activity android:name=".settings.AccountInformation"></activity>
+        <activity android:name=".payement_gateway.CustomUIActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".payement_gateway.Payement_MainActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Upload.Upload"
+            android:parentActivityName=".home.MainActivity"/>
+        <activity android:name=".settings.Emergency"/>
+        <activity android:name=".settings.Redeem_coupon"/>
+
+
+    </application>
+
+</manifest>
